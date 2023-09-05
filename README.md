@@ -1,8 +1,4 @@
-- 👋 Hi, I'm Ido Zarfati.
-- 👀 I am interested in gaining as much experience as possible as a DevOps person.
-- 🌱 I am currently learning as many tools as possible to become an expert DevOps engineer.
-- 💞️ I am looking to collaborate and contribute to open source projects.
-- 📫 You can reach me by email: idoido1346@gmail.com 
+A results-driven individual with a passion for streamlining development and operations processes. Aiming to contribute my skills in automation, technologies, and collaboration to enhance software delivery efficiency and drive business success.
 
 #
 
