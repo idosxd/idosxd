@@ -3,4 +3,4 @@ A results-driven individual with a passion for streamlining development and oper
 #
 
 ### My Skills
-![Skills](https://skillicons.dev/icons?i=html,css,js,linux,bash,py,git,docker,prometheus,grafana,ansible,azure,kubernetes,mysql,jenkins)
+Windows · Powershell · Linux · Bash · Python (Programming Language) · PostgreSQL · MySQL · Git · GitHub · Gitlab · Microsoft Azure · Azure DevOps Services · Ansible · Docker Products · Terraform · Kubernetes · Helm (Software) · Prometheus.io · Grafana · Jenkins · ArgoCD · SQL
