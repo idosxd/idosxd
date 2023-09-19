@@ -4,4 +4,4 @@ A results-driven individual with a passion for streamlining development and oper
 #
 
 ### My Skills
-· HTML · Cascading Style Sheets (CSS) · JavaScript · SQL · C# · Windows · Powershell · Linux · Bash · Python (Programming Language) · PostgreSQL · MySQL · Git · GitHub · Gitlab · Microsoft Azure · Azure DevOps Services · Ansible · Docker Products · Terraform · Kubernetes · Helm (Software) · Prometheus.io · Grafana · Jenkins · ArgoCD
+· HTML · Cascading Style Sheets (CSS) · JavaScript · SQL · C# · Windows · Powershell · Linux · Bash · Python (Programming Language) · PostgreSQL · MySQL · Git · GitHub · Gitlab · Microsoft Azure · Azure DevOps Services · Ansible · Docker Products · Terraform · Kubernetes · Helm (Software) · Prometheus.io · Grafana · Jenkins · ArgoCD · ChatGPT
