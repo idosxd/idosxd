@@ -1,5 +1,5 @@
 ### My Summary
-A results-driven individual with a passion for streamlining development and operations processes. Aiming to contribute my skills in automation, technologies, and collaboration to enhance software delivery efficiency and drive business success.
+A results-driven person, with quick learning abilities and a passion for optimizing development and operational processes, strives to contribute to the best of his ability in automation, technologies and collaboration to improve software delivery and drive business success.
 
 #
 
